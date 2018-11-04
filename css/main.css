@@ -2091,7 +2091,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffa3fc;
+  background: #f6fffe;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2962,13 +2962,6 @@ embed {
 .header {
   line-height: 1.5;
 }
-.container {
-  background-color: rgba(0,0,0,0.75);
-}
-.header-inner {
-  padding-top: 0px;
-  padding-bottom: 0px;
-}
 .posts-expand {
   padding-top: 80px;
 }
@@ -3388,20 +3381,6 @@ img:hover {
   .tag-cloud {
     margin: -73px 15px 50px 15px;
     padding: 86px 5px 36px 5px;
-  }
-}
-#top {
-  display: block;
-  text-align: center;
-  margin: -100px 50px 40px 50px;
-  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
-  background-color: #fff;
-  padding: 106px 36px 10px 36px;
-}
-@media (max-width: 767px) {
-  #top {
-    margin: -93px 15px 50px 15px;
-    padding: 96px 10px 0px 10px;
   }
 }
 .about-page {
