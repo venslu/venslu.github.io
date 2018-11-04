@@ -1987,7 +1987,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #87d686;
+  background: #1420d0;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2857,15 +2857,6 @@ embed {
 }
 .header {
   line-height: 1.5;
-}
-.posts-expand {
-  padding-top: 80px;
-}
-.posts-expand .post-meta {
-  margin: 5px 0px 0px 0px;
-}
-.post-button {
-  margin-top: 0px;
 }
 .container .header-inner {
   width: 100%;
