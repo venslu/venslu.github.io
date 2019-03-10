@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F03%2F11%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new &quot;My New Post&quot; More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment document.querySelectorAll('.github-emoji') .forEach(el => { if (!el.dataset.src) { return; } const img = document.createElement('img'); img.style = 'display:none !important;'; img.src = el.dataset.src; img.addEventListener('error', () => { img.remove(); el.style.color = 'inherit'; el.style.backgroundImage = 'none'; el.style.background = 'none'; }); img.addEventListener('load', () => { img.remove(); }); document.body.appendChild(img); });]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[技术更新预告]]></title>
+    <url>%2F2018%2F11%2F04%2F%E5%9B%BE%E6%95%B0%E6%8D%AE%E5%BA%93%2F</url>
+    <content type="text"><![CDATA[&#x2003;&#x2003;&#x6280;&#x672F;&#x66F4;&#x65B0;&#x9884;&#x544A;&#xFF0C;&#x5C3D;&#x8BF7;&#x671F;&#x5F85;~~~ document.querySelectorAll('.github-emoji') .forEach(el => { if (!el.dataset.src) { return; } const img = document.createElement('img'); img.style = 'display:none !important;'; img.src = el.dataset.src; img.addEventListener('error', () => { img.remove(); el.style.color = 'inherit'; el.style.backgroundImage = 'none'; el.style.background = 'none'; }); img.addEventListener('load', () => { img.remove(); }); document.body.appendChild(img); });]]></content>
+      <categories>
+        <category>technology</category>
+      </categories>
+      <tags>
+        <tag>technology</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[刚建博客，纪念一下]]></title>
     <url>%2F2018%2F11%2F04%2F%E5%88%9A%E5%BB%BA%E5%8D%9A%E5%AE%A2%EF%BC%8C%E7%BA%AA%E5%BF%B5%E4%B8%80%E4%B8%8B%2F</url>
     <content type="text"><![CDATA[&#x2003;&#x2003;&#x521A;&#x5EFA;&#x535A;&#x5BA2;&#xFF0C;&#x6709;&#x70B9;&#x5C0F;&#x5C0F;&#x7684;&#x6FC0;&#x52A8;&#x3002;&#x611F;&#x8C22;&#x7F51;&#x7EDC;&#x7684;&#x5927;&#x795E;&#x4EEC;&#xFF0C;&#x4F60;&#x4EEC;&#x7684;&#x6587;&#x7AE0;&#x5E2E;&#x6211;&#x5F88;&#x5927;&#x5FD9;&#x3002;&#x5B66;&#x4E60;&#x6280;&#x672F;&#x9700;&#x8981;&#x65E5;&#x79EF;&#x6708;&#x7D2F;&#xFF0C;&#x4E0D;&#x65AD;&#x5B66;&#x4E60;&#xFF0C;&#x6709;&#x597D;&#x7684;&#x60F3;&#x6CD5;&#x8BB0;&#x5F55;&#x4E0B;&#x6765;&#xFF0C;&#x5206;&#x4EAB;&#x6280;&#x672F;&#x7684;&#x540C;&#x65F6;&#xFF0C;&#x81EA;&#x5DF1;&#x4E5F;&#x80FD;&#x5F97;&#x5230;&#x6210;&#x957F;&#x3002;&#x6B22;&#x8FCE;&#x5927;&#x5BB6;&#x4E00;&#x8D77;&#x4EA4;&#x6D41;&#x6280;&#x672F;&#x54E6;&#xFF0C;&#x591A;&#x6765;&#x6211;&#x7684;&#x535A;&#x5BA2;&#x7A7A;&#x95F4;&#x8E29;&#x4E00;&#x8E29;~~~ document.querySelectorAll('.github-emoji') .forEach(el => { if (!el.dataset.src) { return; } const img = document.createElement('img'); img.style = 'display:none !important;'; img.src = el.dataset.src; img.addEventListener('error', () => { img.remove(); el.style.color = 'inherit'; el.style.backgroundImage = 'none'; el.style.background = 'none'; }); img.addEventListener('load', () => { img.remove(); }); document.body.appendChild(img); });]]></content>
@@ -10,10 +26,5 @@
       <tags>
         <tag>technology</tag>
       </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2018%2F11%2F02%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new &quot;My New Post&quot; More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment document.querySelectorAll('.github-emoji') .forEach(el => { if (!el.dataset.src) { return; } const img = document.createElement('img'); img.style = 'display:none !important;'; img.src = el.dataset.src; img.addEventListener('error', () => { img.remove(); el.style.color = 'inherit'; el.style.backgroundImage = 'none'; el.style.background = 'none'; }); img.addEventListener('load', () => { img.remove(); }); document.body.appendChild(img); });]]></content>
   </entry>
 </search>
